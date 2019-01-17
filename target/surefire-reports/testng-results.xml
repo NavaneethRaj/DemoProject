@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-05T08:05:43Z" name="Surefire suite" finished-at="2019-01-05T08:05:43Z" duration-ms="63">
+    <groups>
+    </groups>
+    <test started-at="2019-01-05T08:05:43Z" name="Surefire test" finished-at="2019-01-05T08:05:43Z" duration-ms="63">
+      <class name="com.mymaven.app.SeleniumTest">
+        <test-method signature="seleniumAuto()[pri:0, instance:com.mymaven.app.SeleniumTest@6ae5aa72]" started-at="2019-01-05T08:05:43Z" name="seleniumAuto" finished-at="2019-01-05T08:05:43Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumAuto -->
+        <test-method signature="seleniumUI()[pri:0, instance:com.mymaven.app.SeleniumTest@6ae5aa72]" started-at="2019-01-05T08:05:43Z" name="seleniumUI" finished-at="2019-01-05T08:05:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumUI -->
+      </class> <!-- com.mymaven.app.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
